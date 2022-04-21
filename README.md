@@ -6,7 +6,7 @@
   </div><br>
 
   <h1>Apeperia</h1>
-  <p>Site de uma startup de criação de aplicativos personalizados, desenvolvido através do curso de Layouts Responsivos da plataforma Alura</p>
+  <p>Site de uma startup de criação de aplicativos personalizados, desenvolvido através do curso de Layouts Responsivos, da plataforma Alura</p>
 
   <div>
     <a href="https://github.com/Doug-Silva/apeperia/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/react" 
